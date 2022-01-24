@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xElijah
+- 👀 I’m interested in Full stack + Solana dev
+- 🌱 I’m currently learning Solana Buildpsace
+- 💞️ I’m looking to collaborate on SOL NFT projects
+- 📫 How to reach me https://twitter.com/0xElijah
